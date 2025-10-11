@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjit!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1000&color=00FA9A&width=650&lines=UGTA+•+Developer+•+Builder;Cold+brew+enthusiast+☕;Turning+ideas+into+code+💡;TA+by+day,+builder+by+night+🌃)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1000&color=00FA9A&width=650&lines=UGTA+•+Developer+•+Builder;Cold+brew+enthusiast+☕;Turning+ideas+into+code+💡;TA+by+day,+builder+by+night+🌃)
 
 💻 Working on a **Sharetea POS system** and a **deep learning model** <br>
 💭 UGTA helping students master the foundations of **software engineering** <br>
