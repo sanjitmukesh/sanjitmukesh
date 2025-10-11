@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=sanjitmukesh" />
+
 # 👋 Hi, I'm Sanjit!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1000&color=00FA9A&width=650&lines=UGTA+•+Developer+•+Builder;Cold+brew+enthusiast+☕;Turning+ideas+into+code+💡;TA+by+day,+builder+by+night+🌃)](https://git.io/typing-svg)
