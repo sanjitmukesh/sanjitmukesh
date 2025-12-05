@@ -4,8 +4,7 @@
 
 💻 Working on a **Sharetea POS system** and a **Glove Mouse** <br>
 💭 TA helping students master the foundations of **software engineering** <br>
-🌱 Always learning, always building <br>
-🚀 #buildinginpublic
+🌱 Always learning and building
 
 ---
 
