@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjit!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1000&color=87CEFA&width=650&lines=TA+•+Developer+•+Builder;Running+on+cold+brew+☕)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1000&color=87CEFA&width=650&lines=Developer+•+TA+•+Builder;Running+on+cold+brew+☕)
 
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
